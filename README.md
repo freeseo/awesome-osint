@@ -1714,6 +1714,7 @@ algorithms, knowledgebase and AI technology.
 * [XODO](http://xodo.com)
 * [Xpdf](http://www.foolabs.com/xpdf/home.html)
 * [Sejda](https://www.sejda.com/)
+* [CombinePDF](https://combinepdf.net) - Create a combination of multiple PDF documents into one PDF
 
 ## [↑](#contents) OCR Tools
 
@@ -1721,6 +1722,7 @@ algorithms, knowledgebase and AI technology.
 * [Free Online OCR](https://www.newocr.com)
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF/)
 * [Online OCR](http://www.onlineocr.net)
+* [Online OCR Service](https://onlineocr.org) - Convert PDF or Image to Text for free
 
 ## [↑](#contents) Cloud Storage and File Sharing
 
